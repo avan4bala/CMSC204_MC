@@ -1,2 +1,2 @@
-# CMCS204_MC
+# CMSC204_MC
 Private Repo for projects in CMCS 204
